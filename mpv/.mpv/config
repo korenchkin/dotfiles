@@ -1,0 +1,11 @@
+# Write your default config options here!
+
+# Don't show subtitles
+no-sub-visibility
+
+# German or English as default languages
+alang=de,en,deu,eng
+slang=de,en,deu,eng
+
+# My dvd drive isn't called /dev/dvd
+dvd-device=/dev/sr0

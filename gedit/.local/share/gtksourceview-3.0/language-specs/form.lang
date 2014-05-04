@@ -267,7 +267,7 @@
     </context>
 
     <!--Main context-->
-    <context id="form" class="no-spell-check">
+    <context id="form">
       <include>
         <context ref="comment"/>
         <context ref="preprocessor"/>
